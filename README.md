@@ -7,5 +7,10 @@ In this tutorial, we are going to create a simple app to manage a 'to do' list a
 By the end, you should have a basic understanding of Meteor and its project structure.
 
 To create the app, open your terminal and type:
+>meteor create simple-todos
 
-meteor create simple-todos
+To run the newly created app:
+>cd simple-todos
+>meteor
+
+Open your web browser and go to http://localhost:3000 to see the app running.
